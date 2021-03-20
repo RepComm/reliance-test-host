@@ -1,0 +1,9 @@
+{
+  "name": "reliance-test-host",
+  "dependencies": {
+    "repcomm/dynobj": {
+      "method": "github"
+    }
+  },
+  "files": []
+}
